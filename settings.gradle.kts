@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "multimodule-practice"
 include(":app")
- 
